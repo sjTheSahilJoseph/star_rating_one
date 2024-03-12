@@ -1,0 +1,10 @@
+.container {
+    background: #333;
+}
+
+.active {
+    color: #fff700
+}
+.inactive {
+    color: black;
+}
